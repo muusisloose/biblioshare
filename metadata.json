@@ -1,0 +1,5 @@
+{
+  "name": "BiblioShare",
+  "description": "A minimal, community-driven platform for book reviews and mini-essays. Share thoughts, follow authors, and discuss your favorite reads.",
+  "requestFramePermissions": []
+}
